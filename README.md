@@ -42,5 +42,6 @@ I am not the greatest cricket fan out there but I enjoy cricket as much as the n
 <img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/62311a0b-4f2b-4dd9-9070-89dd3d37854c" height=250>
 
 
+![Screenshot (297)](https://github.com/shabbir2931/IPL_EDA_DATA_SET/assets/143161219/2fd9b45b-1dc1-4748-be83-d592b4b4c707)
 
 
