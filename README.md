@@ -33,15 +33,12 @@ I am not the greatest cricket fan out there but I enjoy cricket as much as the n
 
 # <img src="https://media2.giphy.com/media/YjQk70gmQLDmJTawn0/giphy.gif?cid=6c09b952xaer02w992bk0htawwbmvmqir5fyf338xab2n9jp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="60">**Screenshot**
 
-<img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/323f7431-66b3-4d29-97ee-2c3fc8c2cc29" height=300>
 
-<img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/05b4c234-1ab6-4ccd-bc81-b125075b49f9" height=250>
+![Screenshot (297)](https://github.com/shabbir2931/IPL_EDA_DATA_SET/assets/143161219/ada4096a-f340-4bdc-bbd6-fc85aff71575)
+![Screenshot (298)](https://github.com/shabbir2931/IPL_EDA_DATA_SET/assets/143161219/164dcf1b-a561-4c7c-9e29-250fcdef4753)
+![Screenshot (299)](https://github.com/shabbir2931/IPL_EDA_DATA_SET/assets/143161219/ad45d621-731b-448d-9574-bc9804bf6618)
+![Screenshot (300)](https://github.com/shabbir2931/IPL_EDA_DATA_SET/assets/143161219/53c3d6fb-4dd7-497f-850c-68f2229e185e)
+![Screenshot (301)](https://github.com/shabbir2931/IPL_EDA_DATA_SET/assets/143161219/38981b39-fe45-49c4-9475-c7e9af067a99)
 
-<img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/a710e8c5-b0b2-405e-b492-8388d52df07a" height=250>
-
-<img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/62311a0b-4f2b-4dd9-9070-89dd3d37854c" height=250>
-
-
-![Screenshot (297)](https://github.com/shabbir2931/IPL_EDA_DATA_SET/assets/143161219/2fd9b45b-1dc1-4748-be83-d592b4b4c707)
 
 
